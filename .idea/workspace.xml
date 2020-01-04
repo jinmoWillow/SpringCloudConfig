@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de94f03e-e692-44b7-ac36-ef48128418e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/item-service-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul-dev.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\代码库\SpringCloudConfig\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\apache-maven-3.6.1\repository" />
+        <option name="mavenHome" value="F:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VrlvgLNmUgcUQhB1mHai6KOMgb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\代码库\SpringCloudConfig" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de94f03e-e692-44b7-ac36-ef48128418e6" name="Default Changelist" comment="" />
+      <created>1578019326636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578019326636</updated>
+      <workItem from="1578019329431" duration="719000" />
+      <workItem from="1578100815924" duration="682000" />
+      <workItem from="1578101770891" duration="346000" />
+      <workItem from="1578102271664" duration="937000" />
+      <workItem from="1578104463969" duration="214000" />
+      <workItem from="1578104725358" duration="2676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="42" key="#Project_Structure" timestamp="1578019333658">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1578019333658" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1578019375102">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1578019375102" />
+    <state x="526" y="274" key="Github.ShareDialog" timestamp="1578105423848">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="526" y="274" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1578105423848" />
+    <state x="470" y="85" key="Github.UntrackedFilesDialog" timestamp="1578105435332">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="470" y="85" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1578105435332" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1578105699975">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1578105699975" />
+    <state x="363" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1578043432561">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1578043432561" />
+  </component>
+</project>
