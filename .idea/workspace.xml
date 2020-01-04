@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de94f03e-e692-44b7-ac36-ef48128418e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/item-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/item-service-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuul-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul-dev.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,18 +82,34 @@
       <workItem from="1578101770891" duration="346000" />
       <workItem from="1578102271664" duration="937000" />
       <workItem from="1578104463969" duration="214000" />
-      <workItem from="1578104725358" duration="2676000" />
+      <workItem from="1578104725358" duration="2953000" />
     </task>
+    <task id="LOCAL-00001" summary="jinmo">
+      <created>1578108062571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578108062571</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jinmo" />
+    <option name="LAST_COMMIT_MESSAGE" value="jinmo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="42" key="#Project_Structure" timestamp="1578019333658">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="42" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1578019333658" />
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1578108061311">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1578108061311" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1578019375102">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -108,10 +122,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="470" y="85" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1578105435332" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1578105699975">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1578108102565">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1578105699975" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1578108102565" />
     <state x="363" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1578043432561">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
